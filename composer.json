@@ -6,7 +6,7 @@
     "oembed",
     "laravel-oembed"
   ],
-  "license": "BSD-3-Clause",
+  "license": "MIT",
   "authors": [
     {
       "name": "Tushar Deo",
