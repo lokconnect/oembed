@@ -1,0 +1,32 @@
+{
+  "name": "lokconnect/oembed",
+  "description": "Laravel 5.1 Oembed",
+  "keywords": [
+    "laravel",
+    "oembed",
+    "laravel-oembed"
+  ],
+  "license": "BSD-3-Clause",
+  "authors": [
+    {
+      "name": "Tushar Deo",
+      "email": "tushar@lokconnect.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0",
+    "illuminate/support": "5.*",
+    "illuminate/cache": "5.*",
+    "embed/embed": "~2"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "~4",
+    "mockery/mockery": "~0.9"
+  },
+  "autoload": {
+    "psr-4": {
+      "Lokconnect\\Oembed\\": ""
+    }
+  },
+  "minimum-stability": "stable"
+}
