@@ -28,5 +28,5 @@
       "Lokconnect\\Oembed\\": ""
     }
   },
-  "minimum-stability": "stable"
+  "minimum-stability": "dev"
 }
